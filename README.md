@@ -1,7 +1,7 @@
 # AI for Dementia
 
 ## Definitions and acronyms
-* **Dementia:** “Dementia is a term used to describe a group of symptoms affecting memory, thinking and social abilities severely enough to interfere with your daily life. It isn't a specific disease, but several diseases can cause dementia.” [1]
+* **Dementia:** [“Dementia is a term used to describe a group of symptoms affecting memory, thinking and social abilities severely enough to interfere with your daily life. It isn't a specific disease, but several diseases can cause dementia.”] [1]
 * **PwD:** Person(s) with dementia
 * **PwD<sub>r</sub>:** PwD responses
 * **BPSD:** Behavioral and psychological symptoms of dementia
@@ -35,6 +35,9 @@ TBD
 ### Acknowledgements
 
 This project was funded under ...
+
+### References
+[1] : Mayo Foundation for Medical Education and Research, "Mayo Clinic," [Online]. Available: https://www.mayoclinic.org/diseases-conditions/dementia/symptoms-causes/syc-20352013
 
 ### License
 
