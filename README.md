@@ -9,7 +9,7 @@
 
 ## Project description
 This repository includes the work towards the design, development and implementation
-of a smart agent capable of detecting and/or predicting BPSD that involved distress. The smart agent mus also be capable to react according to the detected/predicted emotional distress response in order to improve the quality of life of the PwD as well of the caregiver.
+of a smart agent capable of detecting and/or predicting BPSD that involved distress. The smart agent will be capable to react according to the detected/predicted emotional distress response in order to improve the quality of life of the PwD as well of the caregiver.
 
 We begin with the hypothesis that signals representative of PwD<sub>r</sub> (e.g., audio, video, inertial/movement measurements, physiological signals, speech, Bluetooth sightings as a measure of social context) can be used to train smart agents to automate the detection (occurrence of a BPSD<sub>d</sub>) and prediction (prior to the onset of a BPSD<sub>d</sub>) of emotional distress (anger, frustration, anxiety) in PwD, reacting accordingly to improve their quality of life as well as of their caregivers.
 
